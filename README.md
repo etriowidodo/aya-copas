@@ -5,7 +5,8 @@ Features
 Flexible Copying Options:
 Single File Mode: Copy individual files with progress tracking and overwrite confirmation.
 Folder Mode: Copy entire folder structures, preserving directory hierarchies.
-
+## Download
+Get the latest release: [Download Aya_Copas ](https://www.mediafire.com/file/d97rfjanf5321so/AYA_COPAS.exe/file))
 
 Optimized Performance:
 Automatically adjusts buffer sizes based on file size (4MB to 64MB).
